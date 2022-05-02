@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/17209/Documents/KiCad/New_Library.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "New_Library_0")(type "KiCad")(uri "C:/Users/17209/Documents/KiCad/KiCAD/New_Library_0.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "2022-04-29_21-42-55")(type "Legacy")(uri "C:/Users/17209/Downloads/ul_EVQ-Q2503W/KiCAD/2022-04-29_21-42-55/2022-04-29_21-42-55.lib")(options "")(descr ""))
+)
